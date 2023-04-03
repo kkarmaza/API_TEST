@@ -39,7 +39,7 @@
 					}
 				}
 			],
-			"_postman_id": "08795fef-a058-4ae2-b4ce-f616132ef99a",
+			"id": "08795fef-a058-4ae2-b4ce-f616132ef99a",
 			"protocolProfileBehavior": {
 				"disableBodyPruning": true
 			},
@@ -51,7 +51,7 @@
 				"header": [],
 				"body": {
 					"mode": "raw",
-					"raw": "{\r\n  \"id\":{{id}},\r\n  \"username\": \"Karina{{id}}Test{{id}}\",\r\n  \"firstName\": \"Karina{{id}}\",\r\n  \"lastName\": \"Test{{id}}\",\r\n  \"email\": \"Karina{{id}}Test{{id}}@test.com\",\r\n  \"password\": \"Test123\",\r\n  \"phone\": \"string\",\r\n  \"userStatus\": 0\r\n}",
+					"raw": "{\r\n  \"id\":{{id}},\r\n  \"username\": \"Karina{{id}}Test{{id}}\",\r\n  \"firstName\": \"Karina{{id}}\",\r\n  \"lastName\": \"Test{{id}}\",\r\n  \"email\": \"Karina{{id}}Test{{id}}@test.com\",\r\n  \"password\": \"Test124\",\r\n  \"phone\": \"string\",\r\n  \"userStatus\": 0\r\n}",
 					"options": {
 						"raw": {
 							"language": "json"
@@ -80,7 +80,7 @@
 					}
 				}
 			],
-			"_postman_id": "e935cb16-3c03-447b-be04-121f5af2dc7a",
+			"id": "e935cb16-3c03-447b-be04-121f5af2dc7a",
 			"protocolProfileBehavior": {
 				"disableBodyPruning": true
 			},
@@ -143,7 +143,7 @@
 					}
 				}
 			],
-			"_postman_id": "1cbb6338-9b10-47be-a3d5-25fb70bf10f6",
+			"id": "1cbb6338-9b10-47be-a3d5-25fb70bf10f6",
 			"protocolProfileBehavior": {
 				"disableBodyPruning": true
 			},
@@ -191,7 +191,7 @@
 					}
 				}
 			],
-			"_postman_id": "3892655f-4ab3-4584-95d6-1cbe8d75eb14",
+			"id": "3892655f-4ab3-4584-95d6-1cbe8d75eb14",
 			"protocolProfileBehavior": {
 				"disableBodyPruning": true
 			},
@@ -233,7 +233,7 @@
 					}
 				}
 			],
-			"_postman_id": "8e1c0310-d321-4543-9b4c-06b43e9ea38c",
+			"id": "8e1c0310-d321-4543-9b4c-06b43e9ea38c",
 			"protocolProfileBehavior": {
 				"disableBodyPruning": true
 			},
@@ -262,7 +262,7 @@
 					}
 				}
 			],
-			"_postman_id": "e3439452-e64f-440e-877d-cd55928d2db6",
+			"id": "e3439452-e64f-440e-877d-cd55928d2db6",
 			"protocolProfileBehavior": {
 				"disableBodyPruning": true
 			},
@@ -291,7 +291,7 @@
 					}
 				}
 			],
-			"_postman_id": "8262d5d5-4100-4039-9c0f-38db909155f9",
+			"id": "8262d5d5-4100-4039-9c0f-38db909155f9",
 			"protocolProfileBehavior": {
 				"disableBodyPruning": true
 			},
@@ -304,7 +304,7 @@
 		},
 		{
 			"name": "DeleteUser",
-			"_postman_id": "85be4b88-241a-4e8b-ada3-8b3d01cfa93b",
+			"id": "85be4b88-241a-4e8b-ada3-8b3d01cfa93b",
 			"protocolProfileBehavior": {
 				"disableBodyPruning": true
 			},
